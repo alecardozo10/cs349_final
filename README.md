@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # CS 349 Final
 
 Option 1: Coronavirus Data
