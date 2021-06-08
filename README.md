@@ -20,5 +20,5 @@ Option 1: Coronavirus Data
 	2) exp/my_viz2.py
 		Run in exp directory with command "python my_viz2.py"
 		Outputs 1 .png file
-``		The .png file is saved into exp/results and is named "lines_of_best_fit_top_10_pop.png"
+		The .png file is saved into exp/results and is named "lines_of_best_fit_top_10_pop.png"
 
