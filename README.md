@@ -1,6 +1,7 @@
-CS 349 Final
+<<<<<<< HEAD
+# CS 349 Final
 
-Option 1 - Coronavirus Data
+Option 1: Coronavirus Data
 
 2 Experiments:
 
@@ -20,5 +21,4 @@ Option 1 - Coronavirus Data
 		Run in exp directory with command "python my_viz2.py"
 		Outputs 1 .png file
 ``		The .png file is saved into exp/results and is named "lines_of_best_fit_top_10_pop.png"
-
 
